@@ -1,4 +1,4 @@
-## 🙇 Olá! Seja bem-vindo(a) ao meu GitHub!
+## 🙇 Olá! Seja bem-vindo(a) ao meu GitHub! // Português
 
 ### 💻 Sobremim
 > Meu nome é Gabriel e tenho 14 anos!
@@ -7,7 +7,10 @@
 ### 📑 Projetos
 > CTO em @MutanoOrg.
 
-## 🙇 Hi! Welcome to my GitHub!
+
+
+
+## 🙇 Hi! Welcome to my GitHub! // English
 
 ### 💻 About me
 > My name is Gabriel and I am 14 years old!
