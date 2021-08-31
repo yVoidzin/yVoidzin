@@ -2,7 +2,6 @@
 
 ### 💻 Sobremim
 > Meu nome é Gabriel e tenho 14 anos!
+> CTO em @MutanoOrg.
+> Desenvolvedor de Bots em Aoi.js
 
-> Criador do Bot Six™.
-
-> CTO do @MutanoOrg
