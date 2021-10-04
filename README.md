@@ -5,6 +5,7 @@
 > Desenvolvedor de Bots em Aoi.js
 
 ### 📑 Projetos
+> CEO em @SixOrg
 > CTO em @MutanoOrg.
 
 
@@ -17,4 +18,5 @@
 > Bot Developer at Aoi.js
 
 ### 📑 Projects
+> CEO in @SixOrg
 > CTO in @MutanoOrg.
