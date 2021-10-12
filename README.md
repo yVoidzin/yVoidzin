@@ -6,6 +6,7 @@
 
 ### 📑 Projetos
 > CEO em @SixOrg
+
 > CTO em @MutanoOrg.
 
 
@@ -19,4 +20,5 @@
 
 ### 📑 Projects
 > CEO in @SixOrg
+
 > CTO in @MutanoOrg.
