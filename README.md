@@ -5,4 +5,4 @@
 > Web Developer・Student JavaScript
 
 ### 📑 Projects
-> CEO of Dis6#9625 (Discord)
+> CEO of Zyron (Discord)
